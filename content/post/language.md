@@ -3,7 +3,6 @@ title: "标准化考试专题(T/G/I/Sub)"
 date: 2019-07-19T00:00:00
 tags: [TOEFL, GRE, Sub]
 categories: ["出国"]
-top: true
 draft: false
 ---
 

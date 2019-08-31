@@ -13,7 +13,7 @@
    ```
    （注：这个仓库使用`` docs ``目录作为GitHub-Pages。）
 
-3. 在根目录下使用`` hugo new post/xxx.md ``来新建一个文件（为保证格式统一，请不要把别的md文件直接复制到`` content/post/ ``里）。然后编辑`` content/post/xxx.md ``文件。
+3. 在根目录下使用`` hugo new post/xxx.md ``来新建一个文件（为保证格式统一，请不要把别的md文件直接复制到`` content/post/ ``里）。然后编辑`` content/post/xxx.md ``文件。(参考下面的“Hugo的用法”)
 
    使用`` hugo server ``启动本地浏览器预览。编辑完成，预览无误后，运行`` deploy.sh ``即可部署到网页(当然如果不是Linux系统，你也可以手动执行里面的内容)。
 
@@ -45,7 +45,7 @@
 
 `` hugo `` 和 `` hexo `` 一样是个静态博客网页生成软件，优点是轻便。
 
-注： 如果你要全新建立一个博客（不像这里的repo），输入 `` hugo new site xxx ``，然后cd进入你博客的根目录（比如这里的`` blogfiles ``）。
+注： 如果你要全新建立一个博客（不像这里的repo），输入 `` hugo new site xxx ``，然后cd进入你博客的根目录（比如这里的`` blog/ ``）。
 
 以下操作都默认在博客根目录执行。
 
@@ -56,16 +56,35 @@
    ```
    编辑那个xxx.md，写入你想写的内容，保存退出。
 
+1. 编辑文章
+   1. 开头
+   每一篇新建的文章的开头都形如：
+   ```
+   ---
+   title: "标准化考试专题(T/G/I/Sub)"
+   date: 2019-07-19T00:00:00
+   tags: [TOEFL, GRE, Sub]
+   categories: ["出国"]
+   draft: false
+   ---
+   ```
+   每个条目的作用可以顾名思义。这里建议`` categories ``只写一个，`` tags ``可以根据自己的需求写。
+   2. 中间
+   `` <!--more--> ``是用来分割文章预览与正文的，写在其之前的文字会出现在首页。可以参考现有的文章。文章的段落标题分级从二级标题`` ## ``开始。
+   3. 结尾
+   按照模板，结尾会有一个`` <p style="text-align:center">~~By: ~~</p> ``，只要把作者的署名（要问作者的意见）写到`` By: ``后面即可。
+
 1. 选定主题：
 
    到hugo的[主题网站](https://themes.gohugo.io/)选一个你喜欢的主题，并按说明安装。本博客的主题是[`` maupassant ``](https://github.com/rujews/maupassant-hugo)。
+   > 本repo已经安装好了，这一步不用操作。
 
 1. 本地预览：
 
    ```shell
    hugo server
    ```
-   执行过这条命令后有一个
+   执行过这条命令后有类似如下的输出：
    ```
    Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
    Press Ctrl+C to stop
@@ -78,3 +97,4 @@
    hugo
    ```
    执行完，根目录下你会有一个`` public ``文件夹，把里面的东西push到你已经开启[`` GitHub Pages ``](https://pages.github.com/)功能的repo里就可以了。
+   > 本repo已经设置好了，这一步只要运行`` deploy.sh ``。
