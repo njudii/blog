@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>保研 on DII的博客</title>
+    <link>https://njudii.github.io/blog/tags/%E4%BF%9D%E7%A0%94/</link>
+    <description>Recent content in 保研 on DII的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Apr 2019 15:11:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/%E4%BF%9D%E7%A0%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>保研：清华TBSI</title>
+      <link>https://njudii.github.io/blog/post/BaoYan_LHZ/</link>
+      <pubDate>Wed, 24 Apr 2019 15:11:58 +0000</pubDate>
+      
+      <guid>https://njudii.github.io/blog/post/BaoYan_LHZ/</guid>
+      <description>&lt;p&gt;（Q2为对保研/出国选择的理解，想出国的同学也可参考下）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>保研：跨专业保研到计科</title>
+      <link>https://njudii.github.io/blog/post/BaoYanToCS/</link>
+      <pubDate>Tue, 23 Apr 2019 12:33:16 +0000</pubDate>
+      
+      <guid>https://njudii.github.io/blog/post/BaoYanToCS/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

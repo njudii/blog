@@ -1,0 +1,38 @@
+baseUrl = "https://njudii.github.io/blog/"
+title = "DII的博客"
+lanuageCode = 'zh-cn'
+preserveTaxonomyNames = true
+disablePathToLower = true
+theme = "maupassant"
+
+
+[author]
+  name = "DII的学生"
+
+[params]
+  author = "DII的学生"
+  subtitle = "南大匡院学习分享平台"
+  busuanzi = true
+  [[params.links]]
+    title = "物院留学分享平台"
+    name = "物院留学分享平台"
+    url = "https://jialanxin.github.io/njuphy-"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 3
+
+[permalinks]
+  #post = "/:year/:month/:day/:filename/"
+  post = "/post/:filename/"
+

@@ -1,0 +1,8 @@
+<!--<form id="search" action="//www.google.com/search" method="get" accept-charset="utf-8" target="_blank" _lpchecked="1">-->
+<form id="search" action="//cn.bing.com/search" method="get" accept-charset="utf-8" target="_blank" _lpchecked="1">
+      {{/** the keywords **/}}
+      <input type="text" name="q" maxlength="20" placeholder="搜索文章">
+      <input type="hidden" name="q1" value="site:{{ .Site.BaseURL }}">
+      <input type="hidden" name="ensearch" value="1">
+      <button type="submit" class="submit icon-search"></button>
+</form>

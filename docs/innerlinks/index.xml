@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innerlinks on DII的博客</title>
+    <link>https://njudii.github.io/blog/innerlinks/</link>
+    <description>Recent content in Innerlinks on DII的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Jul 2019 19:23:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/innerlinks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GRE argument 小马笔记（速成）</title>
+      <link>https://njudii.github.io/blog/innerlinks/xiaoma/</link>
+      <pubDate>Fri, 19 Jul 2019 19:23:25 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/innerlinks/xiaoma/</guid>
+      <description>简介 GRE argument部分有30分钟时间。阅读一段大概150-250词的argument，根据写作指令，写一篇400-600词左右的文章质疑它（个人感觉400-500其实够了，如果目标是4-5分）。所有的题目都为题库中的题。（写作指令和具体题库见新东方写作教程）
+下面的教程以我考试写的题目来举例，
+ 原题目为：   When Stanley Park first opened, it was the largest, most heavily used public park in town. It is still the largest park, but it is no longer heavily used. Video cameras mounted in the park’s average of only 50 cars per day. In contrast, tiny Carlton Park in the heart of the business district is visited by more than 150 people on the typical weekday.</description>
+    </item>
+    
+  </channel>
+</rss>

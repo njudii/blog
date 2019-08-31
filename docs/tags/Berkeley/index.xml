@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berkeley on DII的博客</title>
+    <link>https://njudii.github.io/blog/tags/Berkeley/</link>
+    <description>Recent content in Berkeley on DII的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Apr 2019 15:10:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/Berkeley/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>伯克利项目</title>
+      <link>https://njudii.github.io/blog/post/BerkeleyProgram/</link>
+      <pubDate>Tue, 16 Apr 2019 15:10:23 +0000</pubDate>
+      
+      <guid>https://njudii.github.io/blog/post/BerkeleyProgram/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
