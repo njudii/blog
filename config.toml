@@ -8,6 +8,7 @@ theme = "maupassant"
 
 [author]
   name = "DII的学生"
+  github = "https://github.com/njudii/blog/"
 
 [params]
   author = "DII的学生"
