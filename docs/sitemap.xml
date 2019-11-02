@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -24,6 +24,11 @@
   
   <url>
     <loc>https://njudii.github.io/blog/categories/%E4%BF%9D%E7%A0%94/</loc>
+    <lastmod>2019-11-02T17:27:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njudii.github.io/blog/tags/%E7%A1%95%E5%A3%AB/</loc>
     <lastmod>2019-11-02T17:27:41+08:00</lastmod>
   </url>
   
@@ -114,11 +119,6 @@
   
   <url>
     <loc>https://njudii.github.io/blog/post/SummerCampStat/</loc>
-    <lastmod>2019-07-18T20:33:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njudii.github.io/blog/tags/%E7%A1%95%E5%A3%AB/</loc>
     <lastmod>2019-07-18T20:33:18+08:00</lastmod>
   </url>
   

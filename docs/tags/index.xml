@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DII的博客</title>
@@ -9,6 +9,15 @@
     
 	<atom:link href="https://njudii.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>硕士</title>
+      <link>https://njudii.github.io/blog/tags/%E7%A1%95%E5%A3%AB/</link>
+      <pubDate>Sat, 02 Nov 2019 17:27:41 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/tags/%E7%A1%95%E5%A3%AB/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>跨专业</title>
@@ -88,15 +97,6 @@
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://njudii.github.io/blog/tags/TOEFL/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>硕士</title>
-      <link>https://njudii.github.io/blog/tags/%E7%A1%95%E5%A3%AB/</link>
-      <pubDate>Thu, 18 Jul 2019 20:33:18 +0800</pubDate>
-      
-      <guid>https://njudii.github.io/blog/tags/%E7%A1%95%E5%A3%AB/</guid>
       <description></description>
     </item>
     
