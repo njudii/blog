@@ -25,8 +25,7 @@
       <pubDate>Tue, 22 Oct 2019 22:00:00 +0000</pubDate>
       
       <guid>https://njudii.github.io/blog/about/</guid>
-      <description>&lt;h2 id=&#34;是什么&#34;&gt;是什么&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;heading&#34;&gt;是什么&lt;/h2&gt;
 &lt;p&gt;这个博客启发自&lt;a href=&#34;https://jialanxin.github.io/njuphy-&#34;&gt;物院留学分享平台&lt;/a&gt;，并结合了唐老师在朋辈导师工作会议上关于将学长学姐经验落实成文的建议。目前是16级的LH同学在负责。&lt;/p&gt;</description>
     </item>
     
@@ -66,7 +65,6 @@
       
       <guid>https://njudii.github.io/blog/post/language/</guid>
       <description>&lt;p&gt;托您的福，雅你的思&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;小马鸡精&lt;del&gt;终于&lt;/del&gt;更新啦！&lt;/strong&gt; &lt;del&gt;目前为止最fancy(最累人)的一篇文章（小声&lt;/del&gt;&lt;/p&gt;</description>
     </item>
     
@@ -77,7 +75,6 @@
       
       <guid>https://njudii.github.io/blog/post/SummerCampStat/</guid>
       <description>&lt;p&gt;Current Offer：人大统计、复旦数学、交大数学、上海高金、北大汇丰&lt;/p&gt;
-
 &lt;p&gt;因为我们院学统计的同学一直比较少，大多数也都是出国或者留在本校了，所以我基本就是没什么学长学姐报外校夏令营的经验，一路自己申请下来的。期间也有跳过很多坑，有一段很艰难的时期，目前夏令营基本也都告一段落了，我自己就总结了一些经验教训，希望可以给我们院统计方向有意向保研的学弟学妹提供一些参考吧。&lt;/p&gt;</description>
     </item>
     
@@ -133,7 +130,6 @@
       
       <guid>https://njudii.github.io/blog/post/HEP_Zihao/</guid>
       <description>&lt;p&gt;HEP也就是High Energy Physics。在这个身边的人都转行去一些应用性的学科的时代，相信大部分将来会申请HEP的同学都是多少有一些物理追求的理想主义者。作为一名已经经历过申请季的学长，我想和学弟学妹们谈一谈自己的一些经验、教训、以及对HEP尤其是理论方面的一些个人化的看法。&lt;/p&gt;
-
 &lt;p&gt;PhD in HEP @ Columbia&lt;/p&gt;</description>
     </item>
     
@@ -188,6 +184,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://njudii.github.io/blog/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://njudii.github.io/blog/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://njudii.github.io/blog/search/</guid>
       <description></description>
     </item>
     
