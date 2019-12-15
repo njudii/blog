@@ -1,4 +1,5 @@
 baseUrl = "https://njudii.github.io/blog/"
+#baseUrl = "https://njudii.github.io/"
 title = "DII的博客"
 lanuageCode = 'zh-cn'
 preserveTaxonomyNames = true
@@ -14,6 +15,7 @@ theme = "maupassant"
   author = "DII的学生"
   subtitle = "南大匡院学习分享平台"
   busuanzi = true
+  localSearch = true
   [[params.links]]
     title = "物院留学分享平台"
     name = "物院留学分享平台"
