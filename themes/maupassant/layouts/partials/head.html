@@ -35,9 +35,9 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="{{ "css/normalize.css" | relURL}}">
-    {{ if .IsPage }}
+    <!-- {{ if .IsPage }}
         <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}">
-    {{ end }}
+    {{ end }} -->
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
