@@ -39,3 +39,7 @@ theme = "maupassant"
   #post = "/:year/:month/:day/:filename/"
   post = "/post/:filename/"
 
+[markup]
+  [markup.highlight]
+    lineNos = true
+    style = "monokai"
