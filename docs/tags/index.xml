@@ -5,10 +5,28 @@
     <link>https://njudii.github.io/blog/tags/</link>
     <description>Recent content in Tags on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Nov 2019 17:27:41 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 16:34:16 +0800</lastBuildDate>
     
 	<atom:link href="https://njudii.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>标签1</title>
+      <link>https://njudii.github.io/blog/tags/%E6%A0%87%E7%AD%BE1/</link>
+      <pubDate>Sun, 29 Dec 2019 16:34:16 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/tags/%E6%A0%87%E7%AD%BE1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签2</title>
+      <link>https://njudii.github.io/blog/tags/%E6%A0%87%E7%AD%BE2/</link>
+      <pubDate>Sun, 29 Dec 2019 16:34:16 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/tags/%E6%A0%87%E7%AD%BE2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>硕士</title>
@@ -76,7 +94,7 @@
     <item>
       <title>GRE</title>
       <link>https://njudii.github.io/blog/tags/GRE/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/tags/GRE/</guid>
       <description></description>
@@ -85,7 +103,7 @@
     <item>
       <title>Sub</title>
       <link>https://njudii.github.io/blog/tags/Sub/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/tags/Sub/</guid>
       <description></description>
@@ -94,7 +112,7 @@
     <item>
       <title>TOEFL</title>
       <link>https://njudii.github.io/blog/tags/TOEFL/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/tags/TOEFL/</guid>
       <description></description>
@@ -148,7 +166,7 @@
     <item>
       <title>高能</title>
       <link>https://njudii.github.io/blog/tags/%E9%AB%98%E8%83%BD/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/tags/%E9%AB%98%E8%83%BD/</guid>
       <description></description>

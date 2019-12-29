@@ -5,10 +5,19 @@
     <link>https://njudii.github.io/blog/</link>
     <description>Recent content on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Nov 2019 17:27:41 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 16:34:16 +0800</lastBuildDate>
     
 	<atom:link href="https://njudii.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Readme</title>
+      <link>https://njudii.github.io/blog/innerlinks/readme/</link>
+      <pubDate>Sun, 29 Dec 2019 16:34:16 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/innerlinks/readme/</guid>
+      <description>&lt;p&gt;这里的文本会出现在首页，即“阅读全文”之前。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>转专业：上海交通大学安泰经济与管理学院工商管理专业</title>
@@ -61,7 +70,7 @@
     <item>
       <title>标准化考试专题(T/G/I/Sub)</title>
       <link>https://njudii.github.io/blog/post/language/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/post/language/</guid>
       <description>&lt;p&gt;托您的福，雅你的思&lt;/p&gt;
@@ -79,12 +88,12 @@
     </item>
     
     <item>
-      <title>夏令营：清华物院</title>
+      <title>夏令营：清华物院AMO</title>
       <link>https://njudii.github.io/blog/post/THUPhyAMO/</link>
       <pubDate>Mon, 01 Jul 2019 11:21:50 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/post/THUPhyAMO/</guid>
-      <description>&lt;p&gt;清华物院AMO&lt;/p&gt;</description>
+      <description>&lt;p&gt;PhD@清华物院AMO&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -126,7 +135,7 @@
     <item>
       <title>高能物理学习/申请经验</title>
       <link>https://njudii.github.io/blog/post/HEP_Zihao/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/post/HEP_Zihao/</guid>
       <description>&lt;p&gt;HEP也就是High Energy Physics。在这个身边的人都转行去一些应用性的学科的时代，相信大部分将来会申请HEP的同学都是多少有一些物理追求的理想主义者。作为一名已经经历过申请季的学长，我想和学弟学妹们谈一谈自己的一些经验、教训、以及对HEP尤其是理论方面的一些个人化的看法。&lt;/p&gt;
