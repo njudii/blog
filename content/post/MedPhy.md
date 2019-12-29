@@ -1,10 +1,11 @@
----
-title: "医学物理相关经验"
-date: 2019-06-12T15:07:40+08:00
-categories: ["出国"]
-tags: ["出国", "医学", "物理"]
-draft: false
----
++++
+title = "医学物理相关经验"
+date = 2019-06-12T15:07:40+08:00
+categories = ["出国"]
+tags = ["出国", "医学", "物理"]
+postauthor = ["TX"]
+draft = false
++++
 
 PhD in Health/Medical Phy @ UW-Madison
 
@@ -49,13 +50,10 @@ PhD in Health/Medical Phy @ UW-Madison
 
 最后贴下个人联系方式：
 
- + Email: richardtie@163.com
- + QQ: 3230930868
+ + Email：richardtie@163.com
+ + QQ：3230930868
  + Wechat：19941502816
 
 欢迎感兴趣的学弟学妹和我交流，我会力所能及提供帮助。
 
 ---
-
-<p style="text-align:center">~~By: TX~~</p>
-

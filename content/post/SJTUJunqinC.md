@@ -3,6 +3,7 @@ title: "转专业：上海交通大学安泰经济与管理学院工商管理专
 date: 2019-11-02T17:27:41+08:00
 categories: ['保研']
 tags: ['跨专业', '硕士']
+postauthor: ["cjq2013"]
 draft: false
 ---
 

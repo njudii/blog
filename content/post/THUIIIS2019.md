@@ -1,11 +1,11 @@
----
-title: "夏令营：清华叉院2019"
-date: 2019-06-04T10:05:13+08:00
-categories: ["保研"]
-tags: ["夏令营", "清华", "物理"]
-draft: false
-author: dls
----
++++
+title = "夏令营：清华叉院2019"
+date = 2019-06-04T10:05:13+08:00
+categories = ["保研"]
+tags = ["夏令营", "清华", "物理"]
+postauthor = ["董老师"]
+draft = false
++++
 
 2019年清华交叉信息研究院夏令营
 
@@ -93,11 +93,6 @@ author: dls
 
 Offer: WJH
 
-<div style="float:right;border:1px solid;display:inline">$\ \Leftarrow$ To Be Continued $=\ $ </div>
-
-<br />
+<!-- {{< divRight >}} $\ \Leftarrow$ To Be Continued $=\ $ {{< /divRight >}} -->
 
 ---
-
-<p style="text-align:center">~~By: 董老师~~</p>
-

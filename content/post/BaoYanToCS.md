@@ -1,11 +1,11 @@
----
-title: "保研：跨专业保研到计科"
-date: 2019-04-23T12:33:16Z
-draft: false
-categories: ["保研"]
-tags: ["保研", "跨专业", "CS"]
-author: 雙城記
----
++++
+title = "保研：跨专业保研到计科"
+date = 2019-04-23T12:33:16Z
+categories = ["保研"]
+tags = ["保研", "跨专业", "CS"]
+postauthor = ["雙城記"]
+draft = false
++++
 
 <!--more-->
 
@@ -82,5 +82,3 @@ Q&A
 -->
 
 ---
-
-<p style="text-align:center;">~~By: 雙城記~~</p>

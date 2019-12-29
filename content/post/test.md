@@ -1,9 +1,9 @@
----
-title: "第一篇文章"
-date: 2019-04-12T14:43:12Z
-lastmod: 2019-04-13T15:35:00Z
-draft: true
----
++++
+title = "第一篇文章"
+date = 2019-04-12T14:43:12Z
+postauthor = ["xy"]
+draft = true
++++
 
 本篇是测试内容，可以不用继续看了
 
@@ -24,5 +24,3 @@ $$E^2 = p^2 + m^2$$
 嗯，很好。
 
 ---
-
-<p style="text-align:center;">~~By: xy~~</p>

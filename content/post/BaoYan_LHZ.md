@@ -1,10 +1,11 @@
----
-title: "保研：清华TBSI"
-date: 2019-04-24T15:11:58Z
-tags: [保研, 清华, 硕士]
-categories: [保研]
-draft: false
----
++++
+title = "保研：清华TBSI"
+date = 2019-04-24T15:11:58Z
+categories = ["保研"]
+tags = ["保研", "清华", "硕士"]
+postauthor = ["刘海舟"]
+draft = false
++++
 
 （Q2为对保研/出国选择的理解，想出国的同学也可参考下）
 
@@ -161,5 +162,3 @@ A9：套磁是非常重要的，不仅仅在出国上有用，保研上也很有
 如果有疑问，欢迎加我微信（微信号：wait\_for\_it\_233），请注明姓名，谢谢！预祝大家都能收获自己满意的offer！
 
 ---
-
-<p style="text-align:center;">~~By: 刘海舟~~</p>

@@ -1,6 +1,7 @@
 ---
 title: "关于"
 date: 2019-10-22T22:00:00Z
+postauthor: ["xy"]
 draft: false
 ---
 
@@ -49,5 +50,3 @@ draft: false
 你的寥寥数语，说不定就能给予别人恰到好处的帮助！
 
 ---
-
-<p style="text-align:center;">~~By: xy~~</p>

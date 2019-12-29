@@ -1,10 +1,11 @@
----
-title: "夏令营：统计"
-date: 2019-07-18T20:33:18+08:00
-categories: ["保研"]
-tags: ["夏令营", "统计", "硕士"]
-draft: false
----
++++
+title = "夏令营：统计"
+date = 2019-07-18T20:33:18+08:00
+categories = ["保研"]
+tags = ["夏令营", "统计", "硕士"]
+postauthor = ['YMJ']
+draft = false
++++
 
 Current Offer：人大统计、复旦数学、交大数学、上海高金、北大汇丰
 
@@ -234,6 +235,3 @@ pre：给你30-45min小组讨论，之后要画一个poster上台做pre，老师
 之后如果有疑问，欢迎加我微信（15156431678），备注下姓名年级~谢谢
 
 ---
-
-<p style="text-align:center">~~By: YMJ~~</p>
-

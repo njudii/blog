@@ -1,6 +1,6 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
+title = "Readme"
+date = 2019-12-29T16:34:16+08:00
 categories = ["分类名"]
 tags = ["标签1", "标签2"]
 postauthor = ["本文作者"]

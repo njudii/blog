@@ -1,10 +1,11 @@
----
-title: "统计学PhD申请"
-date: 2019-06-15T15:08:42+08:00
-categories: ["出国"]
-tags: ["出国", "统计学"]
-draft: false
----
++++
+title = "统计学PhD申请"
+date = 2019-06-15T15:08:42+08:00
+categories = ["出国"]
+tags = ["出国", "统计学"]
+postauthor = ["GJL"]
+draft = false
++++
 
 Ph.D. Statistics@University of California，Los Angeles
 
@@ -125,6 +126,3 @@ Ph.D. Statistics@University of California，Los Angeles
  + Wechat：13182835896 
 
 ---
-
-<p style="text-align:center">~~By: GJL~~</p>
-

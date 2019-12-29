@@ -1,10 +1,10 @@
----
-title: "伯克利项目"
-date: 2019-04-16T15:10:23Z
-categories: ["交换项目"]
-tags: ["出国","交换","Berkeley"]
-draft: false
----
++++
+title = "伯克利项目"
+date = 2019-04-16T15:10:23Z
+categories = ["交换项目"]
+tags = ["出国","交换","Berkeley"]
+draft = false
++++
 
 <!--more-->
 
@@ -51,8 +51,8 @@ draft: false
    1. [https://www.equityapartments.com/san-francisco-bay/berkeley/berkeley-apartments-berkeleyan](https://www.equityapartments.com/san-francisco-bay/berkeley/berkeley-apartments-berkeleyan)
    1. [https://sgrealestateco.com/](https://sgrealestateco.com/)
 
----
-
 ## 作者&致谢
 
 "面签材料"、"有用的网站"：MY，SYJ，凌晨四点的铁匠
+
+---

@@ -1,10 +1,10 @@
----
-title: "高能物理学习/申请经验"
-date: 2019-05-05
-categories: ["学习"]
-tags: ["出国", "高能", "物理"]
-draft: false
----
++++
+title = "高能物理学习/申请经验"
+date = 2019-05-05
+categories = ["学习"]
+tags = ["出国", "高能", "物理"]
+draft = false
++++
 
 HEP也就是High Energy Physics。在这个身边的人都转行去一些应用性的学科的时代，相信大部分将来会申请HEP的同学都是多少有一些物理追求的理想主义者。作为一名已经经历过申请季的学长，我想和学弟学妹们谈一谈自己的一些经验、教训、以及对HEP尤其是理论方面的一些个人化的看法。
 
@@ -58,5 +58,3 @@ Elena是Kaixuan的PhD导师，也是XENON合作组的领导人，所以当然属
  + Email：<xzh19980906@gmail.com>, or <1095539599@qq.com>
 
 ---
-
-<p style="text-align:center">~~By: xzh~~</p>
