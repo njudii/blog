@@ -17,7 +17,7 @@ draft = false
 
 ### 这是第3级标题
 
-下面是一个 `` itemize `` 列表（你也可以把 `-` 换成 `1. ` 来得到一个 `` enumerate `` 列表）：
+下面是一个 `` itemize `` 列表（你也可以把 `` - `` 换成 `` 1. `` 来得到一个 `` enumerate `` 列表）：
 
 - 如要插入链接，请这样使用：你可以在[这里](https://guides.github.com/features/mastering-markdown/)学习使用markdown。
 - 如要插图，请把图片放到 `` fig `` 文件夹，插图时这样使用：
