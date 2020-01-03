@@ -1,7 +1,6 @@
 baseUrl = "https://njudii.github.io/blog/"
 title = "DII的博客"
 lanuageCode = 'zh-cn'
-preserveTaxonomyNames = true
 disablePathToLower = true
 theme = "maupassant"
 
@@ -21,18 +20,26 @@ theme = "maupassant"
     url = "https://jialanxin.github.io/njuphy-"
 
 [menu]
-
   [[menu.main]]
     identifier = "about"
     name = "关于"
     url = "/about/"
     weight = 2
-  
   [[menu.main]]
     identifier = "archives"
     name = "归档"
     url = "/archives/"
     weight = 3
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 4
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 5
 
 [permalinks]
   #post = "/:year/:month/:day/:filename/"
