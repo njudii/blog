@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>课程 on DII的博客</title>
+    <link>https://njudii.github.io/blog/tags/%E8%AF%BE%E7%A8%8B/</link>
+    <description>Recent content in 课程 on DII的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Courses Tips: 物理方向</title>
+      <link>https://njudii.github.io/blog/post/CoursesTipsPhysics/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/post/CoursesTipsPhysics/</guid>
+      <description>&lt;p&gt;物理方向课程经验/经历/吐槽&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
