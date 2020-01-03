@@ -10,7 +10,7 @@
             </h1>
         </header>
         <date class="post-meta meta-date">
-            {{ .Date.Year }}年{{ printf "%d" .Date.Month }}月{{ .Date.Day }}日
+            {{ .Date.Year }}/{{ printf "%d" .Date.Month }}/{{ .Date.Day }}
         </date>
         {{ with .Params.Categories }}
         <div class="post-meta">

@@ -1,73 +1,62 @@
-{{ partial "head" . }}
-
-<body>
-    {{ partial "header" . }}
-
-    <div id="body">
-        <div class="container">
-            <div class="col-group">
-
-                <div class="col-8" id="main">
-                    <div class="res-cons">
-                        <article class="post">
-                            <header>
-                                <h1 class="post-title">{{ .Title }}</h1>
-                            </header>
-                            <date class="post-meta meta-date">
-                                {{ .Date.Year }}年{{ printf "%d" .Date.Month }}月{{ .Date.Day }}日
-                            </date>
-                            {{ with .Params.Categories }}
-                            <div class="post-meta">
-                                <span>|</span>
-                                {{ range . }}
-                                <span class="meta-category">分类: <a
-                                        href="{{ "categories/" | absLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-                                {{ end }}
-                            </div>
-                            {{ end }}
-                            {{ if .Site.Params.busuanzi }}
-                            <div class="post-meta">
-                                <span id="busuanzi_container_page_pv"> | <span id="busuanzi_value_page_pv"></span><span>
-                                        阅读</span></span>
-                            </div>
-                            {{ end }}
-                            {{ if isset .Params "postauthor" }}
-                            {{ if not (eq (len .Params.postauthor) 0) }}
-                            <div class="post-meta">
-                                {{ range .Params.postauthor }}
-                                <p> | <b>By:</b> {{ . }}</p>
-                                {{ end }}
-                            </div>
-                            {{ end }}
-                            {{ end }}
-                            <div class="post-content">
-                                {{ .Content }}
-                            </div>
-
-                            {{ partial "copyright" .}}
-
-                            {{ partial "related" . }}
-
-                            <div class="post-meta meta-tags">
-                                {{ if and (isset .Params "tags") .Params.tags }}
-                                <ul class="clearfix">
-                                    {{ range .Params.Tags }}
-                                    <li><a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-                                    {{ end }}
-                                </ul>
-                                {{ else }}
-                                没有标签
-                                {{ end }}
-                            </div>
-                        </article>
-                        {{ partial "comments" . }}
-                    </div>
-                </div>
-                {{ partial "sidebar" . }}
+{{ define "content"}}
+<div class="res-cons">
+    {{ partial "toc" . }}
+    <article class="post">
+        <header>
+            <h1 class="post-title">{{ .Title }}</h1>
+        </header>
+        <date class="post-meta meta-date">
+            {{ .Date.Year }}/{{ printf "%d" .Date.Month }}/{{ .Date.Day }}
+        </date>
+        {{ with .Params.Categories }}
+        <div class="post-meta">
+            <span>|</span>
+            {{ range . }}
+            <span class="meta-category"><a href='{{ "categories/" | absLangURL }}{{ . | urlize }}'>{{ . }}</a></span>
+            {{ end }}
+        </div>
+        {{ end }}
+        {{ if .Site.Params.busuanzi }}
+        <div class="post-meta">
+            <span>|</span>
+            <span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span><span> 阅读</span></span>
+        </div>
+        {{ end }}
+        {{ if .Params.toc }}
+        <div class="clear" style="display: none">
+            <div class="toc-article">
+                <div class="toc-title">文章目录</div>
             </div>
         </div>
-    </div>
-    {{ partial "footer" . }}
-</body>
+        {{ end }}
+        <div class="post-content">
+            {{ .Content }}
+        </div>
+        
+        {{ if isset .Params "postauthor" }}
+        {{ if not (eq (len .Params.postauthor) 0) }}
+            {{ range .Params.postauthor }}
+            <p class="post-meta-center">~~By: {{ . }}~~</p>
+            {{ end }}
+        {{ end }}
+        {{ end }}
 
-</html>
+        {{ partial "copyright" .}}
+
+        {{ partial "related" . }}
+
+        <div class="post-meta meta-tags">
+            {{ if and (isset .Params "tags") .Params.tags }}
+            <ul class="clearfix">
+                {{ range .Params.Tags }}
+                <li><a href='{{ "tags/" | absLangURL }}{{ . | urlize }}'>{{ . }}</a></li>
+                {{ end }}
+            </ul>
+            {{ else }}
+            没有标签
+            {{ end }}
+        </div>
+    </article>
+    {{ partial "comments" . }}
+</div>
+{{ end }}

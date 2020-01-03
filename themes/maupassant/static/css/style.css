@@ -99,12 +99,10 @@ mark {
     background: #fffdd1;
 }
 pre, code {
-    /* background:#f8f8f8; */
     font-family:Menlo, Monaco, Consolas, "Lucida Console", "Courier New", monospace;
     font-size:.92857em;
 }
 pre {
-    /* margin: 2em 0; */
     overflow:auto;
     border: 1px solid #ddd;
     display: block;
@@ -121,14 +119,12 @@ blockquote {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 2.5em 0;
-	padding: 0 1rem;
-    margin-left: 0;
-    //color:#819198;
-	color: #696969;
-    border-left: 0.3rem solid #dce6f0;
+    padding: 0 0 0 50px;
+    color: #555;
+    border-left: none;
 }
 blockquote::before{
-    //content: "\201C";
+    content: "\201C";
     display: block;
     font-family: times;
     font-style: normal;
@@ -300,9 +296,16 @@ textarea {
     text-align:left;
     display: inline-block;
 }
+.post-meta-center {
+    padding:0;
+    /* margin:0px 0 0; */
+    color:#999;
+    text-align:center;
+    /* display: inline-block; */
+}
 .meta-category a {
     position: relative;
-    margin-left: 1.8em;
+    margin-left: 1.5em;
 }
 .meta-category a:before, .meta-category a:after {
     content: '';
@@ -448,6 +451,7 @@ textarea {
     list-style:none;
     padding:25px 0 0;
     font-size:16px;
+    text-align: center;
 }
 .page-navigator li {
     display:inline-block;

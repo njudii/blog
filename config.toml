@@ -1,5 +1,4 @@
 baseUrl = "https://njudii.github.io/blog/"
-#baseUrl = "https://njudii.github.io/"
 title = "DII的博客"
 lanuageCode = 'zh-cn'
 preserveTaxonomyNames = true
