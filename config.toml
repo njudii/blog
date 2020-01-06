@@ -18,6 +18,10 @@ theme = "maupassant"
     title = "物院留学分享平台"
     name = "物院留学分享平台"
     url = "https://jialanxin.github.io/njuphy-"
+  [[params.links]]
+    title = "软件教学系列"
+    name = "软件教学系列"
+    url = "https://itxia.github.io/soft/"
 
 [menu]
   [[menu.main]]
