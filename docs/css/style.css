@@ -111,11 +111,14 @@ code {
     display: inline-block;
 }
 blockquote {
-    padding: 0 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 1px;
     color: #666;
     font-size: 75%;
-    border-left: 4px solid #aaa;
-    background-color: #eee;
+    border-left: 4px solid #888;
+    background-color: #f6f6f6;
     margin-inline-start: 5%;
     margin-inline-end: 10%;
 }
@@ -306,11 +309,10 @@ textarea {
     display: inline-block;
 }
 .post-meta-center {
-    padding:0;
-    /* margin:0px 0 0; */
-    color:#999;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    color:#777;
     text-align:center;
-    /* display: inline-block; */
 }
 .meta-category a {
     position: relative;
@@ -405,9 +407,19 @@ textarea {
 .page-content{
     padding-top: 40px;
 }
-.post-content h3,.post-content h2{
+.post-content h2{
     margin: 1.4em 0 1.1em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+.post-content h3{
+    margin: 1.4em 0 1.1em;
+    border-bottom: 1px dashed #ddd;
+    overflow: hidden;
+}
+.post-content h4{
+    margin: 1.4em 0 1.1em;
+    border-bottom: 1px dotted #eee;
     overflow: hidden;
 }
 .post-content pre{
@@ -430,7 +442,7 @@ textarea {
     border-radius: 3px;
 }
 .post-content p {
-    margin:0 0 1.1em;
+    margin: 0 0 10px;
 }
 .post-content img {
     padding:1em 0;
@@ -441,7 +453,7 @@ textarea {
     overflow: auto;
     padding: .5em 2.4em;
     border-radius: 3px;
-    margin:1.8em 0;
+    margin: 0 0;
 }
 .post-content ul li{
     text-indent: .5em;
