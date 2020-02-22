@@ -69,6 +69,7 @@
       date = 2019-07-19T00:00:00
       categories = ["出国"]
       tags = ["TOEFL", "GRE", "Sub"]
+      postauthor = ["本文作者"]
       draft = false
       +++
       ```
