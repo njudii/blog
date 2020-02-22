@@ -5,10 +5,19 @@
     <link>https://njudii.github.io/blog/</link>
     <description>Recent content on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://njudii.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>保研攻略2020</title>
+      <link>https://njudii.github.io/blog/post/BAOYAN2020/</link>
+      <pubDate>Sat, 22 Feb 2020 21:23:57 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/post/BAOYAN2020/</guid>
+      <description>&lt;p&gt;保研攻略2020版整理出版了(鼓掌！)&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Courses Tips: 物理方向</title>
@@ -44,7 +53,7 @@
       
       <guid>https://njudii.github.io/blog/about/</guid>
       <description>&lt;p&gt;请点击“归档”、“分类”、“标签”等查看你感兴趣的文章。电脑浏览器的效果更佳。&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;是什么&lt;/h2&gt;
+&lt;h2 id=&#34;是什么&#34;&gt;是什么&lt;/h2&gt;
 &lt;p&gt;这个博客启发自&lt;a href=&#34;https://jialanxin.github.io/njuphy-&#34;&gt;物院留学分享平台&lt;/a&gt;，并结合了唐老师在朋辈导师工作会议上关于将学长学姐经验落实成文的建议。由匡院毕业或在读的同学负责维护，具体可以看博客仓库的commit记录。&lt;/p&gt;</description>
     </item>
     
