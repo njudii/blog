@@ -39,6 +39,7 @@ draft = false
 - [清华大学物理系AMO方向](/blog/post/THUPhyAMO/)
 - [清华大学交叉信息研究院](/blog/post/THUIIIS2019/)
 - [上海交通大学天文系](/blog/post/BaoYan_Astro2SJTU_syj)
+- [北大叉院CLS与中科院神经所](/blog/post/BaoYan_PKUCLS_mly/)
 
 ### 数学方向
 
