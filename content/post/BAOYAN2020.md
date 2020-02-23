@@ -24,9 +24,9 @@ draft = false
 <!-- 这个是shortcode，可以不用掌握，照着用就好了。再次吐槽Hugo这个愚蠢的设计！-->
 {{< divRight >}} 匡亚明学院 2016 级董昱江 {{< /divRight >}}
 
-{{< br >}}
-
 {{< divRight >}} 庚子年正月于梁溪 {{< /divRight >}}
+
+{{< br >}}
 
 **保研攻略全文请戳：[保研攻略.pdf](http://img.yp51md.club/%E4%BF%9D%E7%A0%94%E6%94%BB%E7%95%A5.pdf)**。
 
