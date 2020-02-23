@@ -1,5 +1,5 @@
 +++
-title = "夏令营：清华物院AMO"
+title = "保研：清华物院AMO夏令营"
 date = 2019-07-01T11:21:50+08:00
 categories = ["保研"]
 tags = ["夏令营", "清华", "物理", "AMO"]
@@ -7,7 +7,7 @@ postauthor = ["某菜狗学长"]
 draft = false
 +++
 
-PhD@清华物院AMO
+16级。PhD in AMO@清华物院
 
 <!--more-->
 

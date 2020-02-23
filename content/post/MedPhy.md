@@ -1,5 +1,5 @@
 +++
-title = "医学物理相关经验"
+title = "出国：医学物理申请相关经验"
 date = 2019-06-12T15:07:40+08:00
 categories = ["出国"]
 tags = ["出国", "医学", "物理"]
@@ -7,7 +7,7 @@ postauthor = ["TX"]
 draft = false
 +++
 
-PhD in Health/Medical Phy @ UW-Madison
+15级数理方向。PhD in Health/Medical Phy @ UW-Madison
 
 <!--more-->
 

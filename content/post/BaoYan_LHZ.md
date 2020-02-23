@@ -7,6 +7,8 @@ postauthor = ["刘海舟"]
 draft = false
 +++
 
+15级数理方向。Master @ 清华TBSI
+
 （Q2为对保研/出国选择的理解，想出国的同学也可参考下）
 
 <!--more-->

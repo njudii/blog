@@ -1,5 +1,5 @@
 +++
-title = "统计学PhD申请"
+title = "出国：统计学PhD申请"
 date = 2019-06-15T15:08:42+08:00
 categories = ["出国"]
 tags = ["出国", "统计学"]
@@ -7,7 +7,7 @@ postauthor = ["GJL"]
 draft = false
 +++
 
-Ph.D. Statistics@University of California，Los Angeles
+15级。Ph.D. in Statistics@University of California，Los Angeles
 
 <!--more-->
 

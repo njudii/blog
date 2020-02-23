@@ -7,6 +7,8 @@ postauthor = ["xy"]
 draft = false
 +++
 
+15级数理方向。PhD in 量子光学 @ HKUST
+
 这是我2018年参加各个学校保研/申请夏令营的经历。
 
 <!--more-->
