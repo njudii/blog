@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>机器学习 on DII的博客</title>
@@ -17,6 +17,7 @@
       
       <guid>https://njudii.github.io/blog/post/BaoYan_STAT2ML_kyf/</guid>
       <description>&lt;p&gt;16级。Master in ML @ USTC&lt;/p&gt;
+
 &lt;p&gt;作者是匡院16级统计方向的KYF，最后去向是科大信院多媒体实验室，方向为机器学习相关。&lt;/p&gt;</description>
     </item>
     
