@@ -9,6 +9,10 @@ draft = false
 
 这里的文本会出现在首页，即“阅读全文”之前。
 
+请这样写：xx级xx方向。PhD/Master in xx @ xx学校，示例：
+
+16级数理方向。PhD in HEP @ Columbia
+
 <!--more-->
 
 此处向下是正文文本。

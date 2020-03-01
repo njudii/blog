@@ -1,7 +1,7 @@
 +++
 title = "出国：高能物理学习/申请经验"
 date = 2019-05-05
-categories = ["学习"]
+categories = ["出国"]
 tags = ["出国", "高能", "物理"]
 draft = false
 +++
