@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -9,6 +9,11 @@
   
   <url>
     <loc>https://njudii.github.io/blog/tags/CMT/</loc>
+    <lastmod>2020-02-28T22:59:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njudii.github.io/blog/</loc>
     <lastmod>2020-02-28T22:59:14+08:00</lastmod>
   </url>
   
@@ -93,21 +98,6 @@
   </url>
   
   <url>
-    <loc>https://njudii.github.io/blog/post/BaoYan_STAT2ML_kyf/</loc>
-    <lastmod>2020-02-23T16:30:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njudii.github.io/blog/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-02-23T16:30:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://njudii.github.io/blog/tags/%E7%BB%9F%E8%AE%A1/</loc>
-    <lastmod>2020-02-23T16:30:13+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://njudii.github.io/blog/post/BAOYAN2020/</loc>
     <lastmod>2020-02-22T21:23:57+08:00</lastmod>
   </url>
@@ -163,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://njudii.github.io/blog/</loc>
-    <lastmod>2019-10-22T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://njudii.github.io/blog/about/</loc>
     <lastmod>2019-10-22T22:00:00+00:00</lastmod>
   </url>
@@ -199,31 +184,36 @@
   
   <url>
     <loc>https://njudii.github.io/blog/tags/GRE/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-19T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://njudii.github.io/blog/tags/Sub/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-19T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://njudii.github.io/blog/tags/TOEFL/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-19T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://njudii.github.io/blog/categories/%E5%87%BA%E5%9B%BD/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-19T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://njudii.github.io/blog/post/language/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-19T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://njudii.github.io/blog/post/SummerCampStat/</loc>
+    <lastmod>2019-07-18T20:33:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://njudii.github.io/blog/tags/%E7%BB%9F%E8%AE%A1/</loc>
     <lastmod>2019-07-18T20:33:18+08:00</lastmod>
   </url>
   
@@ -274,12 +264,12 @@
   
   <url>
     <loc>https://njudii.github.io/blog/post/HEP_Zihao/</loc>
-    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-05T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://njudii.github.io/blog/tags/%E9%AB%98%E8%83%BD/</loc>
-    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-05T00:00:00+08:00</lastmod>
   </url>
   
   <url>
