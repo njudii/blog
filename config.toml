@@ -15,6 +15,10 @@ theme = "maupassant"
   busuanzi = true
   localSearch = true
   [[params.links]]
+    title = "Gitee镜像(供墙内访问)"
+    name = "Gitee镜像"
+    url = "https://njudii.gitee.io/blog/"
+  [[params.links]]
     title = "匡院官网"
     name = "匡院官网"
     url = "https://dii.nju.edu.cn/"
