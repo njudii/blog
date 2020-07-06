@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>物理 on DII的博客</title>
@@ -17,7 +17,6 @@
       
       <guid>https://njudii.github.io/blog/post/BaoYan_TBao_Phy_THUPhd/</guid>
       <description>&lt;p&gt;16级数理方向 CMT PhD@Tsinghua&lt;/p&gt;
-
 &lt;p&gt;清华物院CMT方向及北大量子中心等保研经验分享，文末附夏令营时间表&lt;/p&gt;</description>
     </item>
     
@@ -64,7 +63,6 @@
       
       <guid>https://njudii.github.io/blog/post/THUIIIS2019/</guid>
       <description>&lt;p&gt;16级数理方向。PhD in 量子信息量子计算 @ 清华叉院&lt;/p&gt;
-
 &lt;p&gt;2019年清华交叉信息研究院夏令营。&lt;/p&gt;</description>
     </item>
     
@@ -75,18 +73,16 @@
       
       <guid>https://njudii.github.io/blog/post/SummerCamp2018/</guid>
       <description>&lt;p&gt;15级数理方向。PhD in 量子光学 @ HKUST&lt;/p&gt;
-
 &lt;p&gt;这是我2018年参加各个学校保研/申请夏令营的经历。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>出国：高能物理学习/申请经验</title>
       <link>https://njudii.github.io/blog/post/HEP_Zihao/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://njudii.github.io/blog/post/HEP_Zihao/</guid>
       <description>&lt;p&gt;15级数理方向。PhD in HEP @ Columbia&lt;/p&gt;
-
 &lt;p&gt;HEP也就是High Energy Physics。在这个身边的人都转行去一些应用性的学科的时代，相信大部分将来会申请HEP的同学都是多少有一些物理追求的理想主义者。作为一名已经经历过申请季的学长，我想和学弟学妹们谈一谈自己的一些经验、教训、以及对HEP尤其是理论方面的一些个人化的看法。&lt;/p&gt;</description>
     </item>
     
