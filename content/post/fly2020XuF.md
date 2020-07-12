@@ -3,7 +3,7 @@ title = "Fly2020：美国计算机Master"
 date = 2020-07-12T02:33:00+08:00
 categories = ["出国"]
 tags = ["出国", "计算机"]
-postauthor = ["XU F"]
+postauthor = ["Xu F"]
 draft = false
 +++
 

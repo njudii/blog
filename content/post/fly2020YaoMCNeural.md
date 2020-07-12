@@ -7,7 +7,7 @@ postauthor = ["Yao MC"]
 draft = false
 +++
 
-16级数理方向，PhD in BioPhy/NeuroSci @ UCSD.
+16级数理方向，PhD in BioPhy @ UCSD.
 
 <!--more-->
 
