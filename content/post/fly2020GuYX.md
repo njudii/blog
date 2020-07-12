@@ -7,7 +7,7 @@ postauthor = ["Gu YX"]
 draft = false
 +++
 
-16级数学方向，Master in Stat @ __。
+16级数学方向，Master in Stat @ UW Seattle。
 
 <!--more-->
 

@@ -7,7 +7,7 @@ postauthor = ["Huang YF"]
 draft = false
 +++
 
-16级计算机方向，PhD in CS @ __。
+16级计算机方向，PhD in CS @ USC。
 
 <!--more-->
 

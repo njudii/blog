@@ -7,7 +7,7 @@ postauthor = ["Li X"]
 draft = false
 +++
 
-16级化生方向，PhD in Chem @ __。
+16级化生方向，PhD in Chem @ Princeton。
 
 <!--more-->
 

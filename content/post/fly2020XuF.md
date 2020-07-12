@@ -7,7 +7,7 @@ postauthor = ["XU F"]
 draft = false
 +++
 
-16级计算机方向，Master in CS @ __。
+16级计算机方向，Master in MSE-SS @ CMU。
 
 <!--more-->
 

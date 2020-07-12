@@ -7,7 +7,7 @@ postauthor = ["Li ZH"]
 draft = false
 +++
 
-16级数学方向，Master in PureMath @ __。
+16级数学方向，Master in PureMath @ ALGANT program。
 
 <!--more-->
 
