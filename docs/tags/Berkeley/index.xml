@@ -5,7 +5,11 @@
     <link>https://njudii.github.io/blog/tags/Berkeley/</link>
     <description>Recent content in Berkeley on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Apr 2019 15:10:23 +0000</lastBuildDate><atom:link href="https://njudii.github.io/blog/tags/Berkeley/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2019 15:10:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/Berkeley/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>伯克利项目</title>
       <link>https://njudii.github.io/blog/post/BerkeleyProgram/</link>
