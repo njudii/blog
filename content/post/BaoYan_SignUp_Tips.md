@@ -15,13 +15,7 @@ draft = false
 
 - 系统中填报的流程大致如下
 
-   $$
-   \text{填报志愿}\rightarrow
-   \text{学校发送复试通知}\Rightarrow
-   \text{学生接受复试通知}\rightarrow
-   \text{学校发送预录取通知}\Rightarrow
-   \text{学生接受预录取通知}
-   $$
+   填报志愿 $\rightarrow$ 学校发送复试通知 $\Rightarrow$ 学生接受复试通知 $\rightarrow$ 学校发送预录取通知 $\Rightarrow$ 学生接受预录取通知。
 
    PS: 这里所谓的"复试"其实只是走流程，真正的考核已经在夏令营或者九推中完成了。
 
