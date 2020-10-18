@@ -18,7 +18,7 @@ draft = false
 
 上述内容仅代表2020年情况，仅供参考。
 
-本文版权归**原作者**所有，由 LYJ 同学整理，原发布于 [https://liuyujie0136.github.io/notes/DII_Bio2020](https://liuyujie0136.github.io/notes/DII_Bio2020) 。DII学习博客 获授权进行转载，仅供个人学习参考，如需转载请与LYJ联系。
+本文版权归**原作者**所有，由 LYJ 同学整理，原发布于 [https://liuyujie0136.github.io/notes/DII_Bio2020](https://liuyujie0136.github.io/notes/DII_Bio2020) 。DII学习博客 获授权进行转载，仅供个人学习参考，如需转载请与本站联系。
 
 感谢作者们的无私奉献！
 
