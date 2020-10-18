@@ -32,11 +32,9 @@ draft = false
    y = np.sin(x)
    pl.plot(x, y)
    ```
-- 如果要使用一些html语法，比如改变字体颜色、居中对齐等等，请自行阅读Hugo的 `` shortcodes `` 的文档（这也是我吐槽Hugo的一点...）。这里只给几个示例：
-   - 字体颜色：{{< span color="red" >}} 这里是红色 {{< /span >}}
-   - 居中对齐：
-
-{{< p text-align="center" >}} 这里是居中文字 {{< /p >}}
+- ~~如果要使用一些html语法，比如改变字体颜色、居中对齐等等，请自行阅读Hugo的 `` shortcodes `` 的文档（这也是我吐槽Hugo的一点...）。这里只给几个示例：~~ <br> 现在可以正常使用内嵌html了（推荐）：
+   - 字体颜色（内嵌html）：<span style="color:red;"> 这里是红色 </span>
+   - 字体颜色（shortcodes）：{{< span color="red" >}} 这里是红色 {{< /span >}}
 
 这个`` --- ``表示画一条水平线，正文内容止步于此。
 
