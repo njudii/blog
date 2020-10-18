@@ -58,6 +58,10 @@ theme = "maupassant"
   post = "/post/:filename/"
 
 [markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
   [markup.highlight]
     lineNos = true
     style = "monokai"
