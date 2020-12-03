@@ -5,11 +5,7 @@
     <link>https://njudii.github.io/blog/</link>
     <description>Recent content on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Oct 2020 15:17:33 +0800</lastBuildDate>
-    
-	<atom:link href="https://njudii.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 18 Oct 2020 15:17:33 +0800</lastBuildDate><atom:link href="https://njudii.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>保研手册2021：生物方向汇总</title>
       <link>https://njudii.github.io/blog/post/BaoYan2020_Bio/</link>
@@ -156,6 +152,16 @@
     </item>
     
     <item>
+      <title>保研：统计到机器学习（中科大信院）</title>
+      <link>https://njudii.github.io/blog/post/BaoYan_STAT2ML_kyf/</link>
+      <pubDate>Sun, 23 Feb 2020 16:30:13 +0800</pubDate>
+      
+      <guid>https://njudii.github.io/blog/post/BaoYan_STAT2ML_kyf/</guid>
+      <description>&lt;p&gt;16级。Master in ML @ USTC&lt;/p&gt;
+&lt;p&gt;作者是匡院16级统计方向的KYF，最后去向是科大信院多媒体实验室，方向为机器学习相关。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Courses Tips: 物理方向</title>
       <link>https://njudii.github.io/blog/post/CoursesTipsPhysics/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0800</pubDate>
@@ -227,7 +233,7 @@
     <item>
       <title>标准化考试专题(T/G/I/Sub)</title>
       <link>https://njudii.github.io/blog/post/language/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/post/language/</guid>
       <description>&lt;p&gt;托您的福，雅你的思。&lt;/p&gt;
@@ -294,7 +300,7 @@
     <item>
       <title>出国：高能物理学习/申请经验</title>
       <link>https://njudii.github.io/blog/post/HEP_Zihao/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0800</pubDate>
       
       <guid>https://njudii.github.io/blog/post/HEP_Zihao/</guid>
       <description>&lt;p&gt;15级数理方向。PhD in HEP @ Columbia&lt;/p&gt;

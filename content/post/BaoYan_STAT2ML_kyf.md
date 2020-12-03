@@ -4,7 +4,7 @@ date = 2020-02-23T16:30:13+08:00
 categories = ["保研"]
 tags = ["夏令营", "统计", "机器学习"]
 postauthor = ["KYF"]
-draft = true
+draft = false
 +++
 
 16级。Master in ML @ USTC
