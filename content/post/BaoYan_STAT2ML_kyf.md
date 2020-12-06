@@ -118,7 +118,7 @@ MIRA Lab 的研究方向目前集中在强化学习和知识图谱两个研究�
 [实验室主页链接](http://www.miralab.ai/)
 [王老师主页链接](http://staff.ustc.edu.cn/~jwangx/)
 MIRA Lab 公众号二维码：
-![二维码](http://staff.ustc.edu.cn/~jwangx/admission/images/wechat_qrcode.jpg)
+![二维码](/blog/fig/BaoYan_STAT2ML_kyf/wechat_qrcode.jpg)
 
 
 ---
