@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>跨专业 on DII的博客</title>
     <link>https://njudii.github.io/blog/tags/%E8%B7%A8%E4%B8%93%E4%B8%9A/</link>
     <description>Recent content in 跨专业 on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Nov 2019 17:27:41 +0800</lastBuildDate><atom:link href="https://njudii.github.io/blog/tags/%E8%B7%A8%E4%B8%93%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Nov 2019 17:27:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/%E8%B7%A8%E4%B8%93%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>转专业：上海交通大学安泰经济与管理学院工商管理专业</title>
       <link>https://njudii.github.io/blog/post/SJTUJunqinC/</link>
@@ -13,6 +17,7 @@
       
       <guid>https://njudii.github.io/blog/post/SJTUJunqinC/</guid>
       <description>&lt;p&gt;Master in 工商管理/运营 @ 上海交大&lt;/p&gt;
+
 &lt;p&gt;本人研究生转专业，现在是上海交通大学安泰经济与管理学院工商管理专业运营方向。&lt;/p&gt;</description>
     </item>
     

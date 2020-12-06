@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>夏令营 on DII的博客</title>
     <link>https://njudii.github.io/blog/tags/%E5%A4%8F%E4%BB%A4%E8%90%A5/</link>
     <description>Recent content in 夏令营 on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Oct 2020 15:17:33 +0800</lastBuildDate><atom:link href="https://njudii.github.io/blog/tags/%E5%A4%8F%E4%BB%A4%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 15:17:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/%E5%A4%8F%E4%BB%A4%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>保研手册2021：生物方向汇总</title>
       <link>https://njudii.github.io/blog/post/BaoYan2020_Bio/</link>
@@ -31,6 +35,7 @@
       
       <guid>https://njudii.github.io/blog/post/BaoYan_STAT2ML_kyf/</guid>
       <description>&lt;p&gt;16级。Master in ML @ USTC&lt;/p&gt;
+
 &lt;p&gt;作者是匡院16级统计方向的KYF，最后去向是科大信院多媒体实验室，方向为机器学习相关。&lt;/p&gt;</description>
     </item>
     
@@ -41,6 +46,7 @@
       
       <guid>https://njudii.github.io/blog/post/HKUSTHongL/</guid>
       <description>&lt;p&gt;16级数理方向。PhD in 量子光学 @ HKUST&lt;/p&gt;
+
 &lt;p&gt;这是我2019年申请各个学校 &lt;del&gt;到处游玩&lt;/del&gt; 的经历回顾。&lt;/p&gt;</description>
     </item>
     
@@ -60,6 +66,7 @@
       
       <guid>https://njudii.github.io/blog/post/SummerCampStat/</guid>
       <description>&lt;p&gt;16级统计方向。Master in Stat @ 北大汇丰 —— 前方高能，此学姐超认真！&lt;/p&gt;
+
 &lt;p&gt;Current Offer：人大统计、复旦数学、交大数学、上海高金、北大汇丰&lt;/p&gt;</description>
     </item>
     
@@ -79,6 +86,7 @@
       
       <guid>https://njudii.github.io/blog/post/THUIIIS2019/</guid>
       <description>&lt;p&gt;16级数理方向。PhD in 量子信息量子计算 @ 清华叉院&lt;/p&gt;
+
 &lt;p&gt;2019年清华交叉信息研究院夏令营。&lt;/p&gt;</description>
     </item>
     
@@ -89,6 +97,7 @@
       
       <guid>https://njudii.github.io/blog/post/SummerCamp2018/</guid>
       <description>&lt;p&gt;15级数理方向。PhD in 量子光学 @ HKUST&lt;/p&gt;
+
 &lt;p&gt;这是我2018年参加各个学校保研/申请夏令营的经历。&lt;/p&gt;</description>
     </item>
     

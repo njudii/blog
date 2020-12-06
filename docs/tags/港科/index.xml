@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>港科 on DII的博客</title>
     <link>https://njudii.github.io/blog/tags/%E6%B8%AF%E7%A7%91/</link>
     <description>Recent content in 港科 on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Feb 2020 22:59:14 +0800</lastBuildDate><atom:link href="https://njudii.github.io/blog/tags/%E6%B8%AF%E7%A7%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2020 22:59:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/%E6%B8%AF%E7%A7%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>清华物院CMT方向及北大量子中心等保研经验分享</title>
       <link>https://njudii.github.io/blog/post/BaoYan_TBao_Phy_THUPhd/</link>
@@ -13,6 +17,7 @@
       
       <guid>https://njudii.github.io/blog/post/BaoYan_TBao_Phy_THUPhd/</guid>
       <description>&lt;p&gt;16级数理方向 CMT PhD@Tsinghua&lt;/p&gt;
+
 &lt;p&gt;清华物院CMT方向及北大量子中心等保研经验分享，文末附夏令营时间表&lt;/p&gt;</description>
     </item>
     

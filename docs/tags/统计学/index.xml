@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>统计学 on DII的博客</title>
     <link>https://njudii.github.io/blog/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6/</link>
     <description>Recent content in 统计学 on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Jun 2019 15:08:42 +0800</lastBuildDate><atom:link href="https://njudii.github.io/blog/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2019 15:08:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://njudii.github.io/blog/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>出国：统计学PhD申请</title>
       <link>https://njudii.github.io/blog/post/StatPhD/</link>
