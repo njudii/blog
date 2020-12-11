@@ -9,7 +9,7 @@ draft = false
 
 16级。Master in ML @ USTC
 
-作者是匡院16级统计方向的KYF，最后去向是科大信院多媒体实验室，方向为机器学习相关。
+作者是匡院16级统计方向的KYF，最后去向是中国科学技术大学 [MIRA Lab](https://www.miralab.ai/) 实验室，方向为强化学习与机器博弈。
 
 <!--more-->
 
