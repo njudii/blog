@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TIMBR on DII的博客</title>
     <link>https://njudii.github.io/blog/tags/TIMBR/</link>
     <description>Recent content in TIMBR on DII的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Oct 2020 15:17:33 +0800</lastBuildDate>
-    
-	<atom:link href="https://njudii.github.io/blog/tags/TIMBR/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 18 Oct 2020 15:17:33 +0800</lastBuildDate><atom:link href="https://njudii.github.io/blog/tags/TIMBR/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>保研手册2021：生物方向汇总</title>
       <link>https://njudii.github.io/blog/post/BaoYan2020_Bio/</link>

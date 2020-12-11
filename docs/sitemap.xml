@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -88,12 +88,12 @@
   </url>
   
   <url>
-    <loc>https://njudii.github.io/blog/categories/%E5%87%BA%E5%9B%BD/</loc>
+    <loc>https://njudii.github.io/blog/tags/%E5%87%BA%E5%9B%BD/</loc>
     <lastmod>2020-07-12T02:40:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://njudii.github.io/blog/tags/%E5%87%BA%E5%9B%BD/</loc>
+    <loc>https://njudii.github.io/blog/categories/%E5%87%BA%E5%9B%BD/</loc>
     <lastmod>2020-07-12T02:40:00+08:00</lastmod>
   </url>
   
