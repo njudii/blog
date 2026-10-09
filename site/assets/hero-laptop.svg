@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 310" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<g stroke="#5c6985" opacity=".34" stroke-width=".8"><path d="M34 287q170 12 365-12M21 291q178 13 389-5M60 303q154-15 324-11M146 15l99 68M131 26l104 60"/></g>
+<path d="M82 49Q80 45 87 44L230 88Q237 90 239 97L267 232L126 198Q119 197 117 189Z" fill="#ecedf6" stroke="#3b4b6c" stroke-width="2.4"/>
+<path d="M91 53L223 94L250 216L132 186Z" fill="#faf9fd" stroke="#6f7e9a" stroke-width="1.25"/>
+<path d="M85 49l3 1L137 187M229 90l31 132" stroke="#b1adbf" stroke-width=".85"/>
+<path d="M137 200 272 235 399 230 265 282 110 241Q99 238 101 231Z" fill="#f6f7fa" stroke="#394b6e" stroke-width="2"/>
+<path d="M101 237Q118 245 265 285l137-47" stroke="#6e7a93" stroke-width="1.15"/>
+<path d="M158 216 269 243 353 241 260 270 146 240Z" fill="#e8eaf1" stroke="#7b89a4" stroke-width="1"/>
+<path d="M180 217l-12 18m37-12-11 18m36-11-10 18m34-13-7 19m33-16-4 14m-121-14 119 30m-112-40 109 29m-94-38 102 26m-122-11 113 29" stroke="#9aa6ba" stroke-width=".9"/>
+<path d="M121 243q70 20 127 34 18 5 33 0" stroke="#ac8cae" stroke-width=".9"/>
+<path d="M150 90Q178 107 198 119M151 105Q189 123 204 140M159 145q46 12 55 35M166 160q32 9 37 22" stroke="#8090b0" stroke-width=".9" opacity=".62"/>
+<circle cx="191" cy="153" r="17" stroke="#8a9abc" stroke-width=".9"/><ellipse cx="191" cy="153" rx="17" ry="7" stroke="#8a9abc" stroke-width=".7" transform="rotate(24 191 153)"/>
+<path d="M144 75 225 100M135 190l116 32" stroke="#aab4cc" stroke-width=".7" stroke-dasharray="4 6"/>
+<path d="M267 232Q290 239 314 235" stroke="#3d4c68" stroke-width="1.15"/>
+<path d="M126 51q63 16 110 40" stroke="#afb7cf" stroke-width=".8" opacity=".7"/>
+<!-- A small loose page, flying off the computer -->
+<path d="M254 91Q282 73 311 97L299 147Q280 128 254 139Z" fill="#fffefb" stroke="#8e8eaa" stroke-width="1.2" opacity=".8"/>
+<path d="m265 105 27 10m-26 7 19 7" stroke="#9ea7be" stroke-width=".65"/>
+<g stroke="#ba9978" stroke-width="1" opacity=".8"><path d="M298 59l12-18M308 69l21-11M319 76l18 4M283 64l1-25"/></g>
+</svg>

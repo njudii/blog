@@ -1,0 +1,7 @@
+# 只影响首页导航下方的公告条，不随滚动悬浮。
+# 需要发布公告时，将 enabled 改为 true，并填写真实文案和链接。如果不需要，改成 false 。
+# 没有链接时，link_text 和 url 可以都留空，显示纯文字公告。
+enabled: true
+text: "网站改版意见征集中，欢迎填写问卷"
+link_text: "前往填写"
+url: "https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click&vd_source=f58f9c9889624921a933f2dfe941dc78"

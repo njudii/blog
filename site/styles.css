@@ -1,0 +1,295 @@
+@charset "UTF-8";
+/* DII / clean typography, scientific sketch accents. */
+:root{--bg:#fafbfc;--ink:#26313d;--accent:#624781;--line:#dce3ea;--pale:#ecf0f5;--body:"Source Sans 3","Noto Sans CJK SC","Source Han Sans SC","PingFang SC","Microsoft YaHei",sans-serif;}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.75 var(--body);-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}a:hover{color:var(--accent)}
+button,input{font:inherit}button{cursor:pointer}img{display:block;max-width:100%}
+:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+::selection{background:#e4dcef}
+.wrap{max-width:1140px;width:calc(100% - 96px);margin-inline:auto}
+.visually-hidden{position:absolute!important;clip:rect(0,0,0,0);height:1px;width:1px;overflow:hidden;white-space:nowrap}
+.skip-link{position:absolute;top:-80px;left:10px;padding:8px 15px;background:#fff;z-index:100}.skip-link:focus{top:10px}
+/* Site navigation is the one place where every page shares a visible system. */
+.site-header{background:#fff;border-bottom:1px solid #e4e9ee}
+.header-inner{max-width:1290px;width:calc(100% - 92px);margin:auto;height:68px;display:flex;align-items:center;justify-content:space-between;gap:40px}
+.site-brand{display:inline-flex;align-items:center;gap:12px;flex-shrink:0;min-height:42px;color:var(--accent)}
+.site-brand:hover{color:var(--accent)}
+.brand-wordmark{display:block;width:247px;height:auto;flex-shrink:0}
+.symbol-orbit{position:relative;width:28px;height:28px}
+.symbol-orbit i{position:absolute;inset:9px 0;border:1.4px solid var(--accent);border-radius:50%;transform:rotate(-5deg)}
+.symbol-orbit i:nth-child(2){transform:rotate(56deg)}
+.symbol-orbit i:nth-child(3){transform:rotate(116deg)}
+.symbol-orbit b{position:absolute;left:12px;top:12px;width:5px;height:5px;border-radius:50%;background:var(--accent)}
+.main-nav{display:flex;gap:37px;align-items:center}
+.main-nav a{padding:21px 0 19px;white-space:nowrap;font-size:14px;font-weight:400;border-bottom:2px solid transparent;transition:color .15s}
+.main-nav a:hover,.main-nav a[aria-current=page]{color:var(--accent)}
+.main-nav a[aria-current=page]{border-color:var(--accent)}
+/* Hero: shallow window, plain central type, sparse scientific drawings. */
+.hero{padding:21px 23px 0}
+.hero-panel{background:var(--pale);height:389px;max-height:calc(100vh - 90px);border:1px solid #dce3ec;position:relative;overflow:hidden}
+.hero-decor{position:absolute;inset:0;pointer-events:none}
+.ornament{position:absolute;object-fit:contain;opacity:.72;filter:saturate(.5)}
+.ornament-atom{width:126px;left:15%;top:5%;transform:rotate(-11deg)}
+.ornament-microscope{width:96px;left:9%;bottom:2%;transform:rotate(3deg)}
+.ornament-computer{width:126px;right:15%;top:8%;transform:rotate(4deg)}
+.ornament-mouse{width:130px;right:10%;bottom:4%;transform:rotate(-8deg)}
+.ornament-saturn{width:87px;left:37%;top:1%;transform:rotate(-9deg);opacity:.54}
+.ornament-molecule{width:65px;right:37%;bottom:3%;transform:rotate(7deg);opacity:.56}
+.hero-center{position:absolute;z-index:1;left:50%;top:50%;transform:translate(-50%,-50%);width:70%;text-align:center}
+.hero h1{font-size:clamp(50px,5.1vw,72px);line-height:1.2;font-weight:600;letter-spacing:-.035em;margin:0;white-space:nowrap}
+/* The complete department name briefly appears, then contracts into the title.
+   The resting design has no extra labels or decorative text. */
+.hero-story{isolation:isolate}
+.hero-story .hero-expansion{position:absolute;top:50%;left:50%;width:min(990px,calc(100vw - 68px));max-width:none;transform:translate(-50%,-50%);transform-origin:center;opacity:0;font-size:clamp(19px,2.15vw,29px);font-weight:400;line-height:1.5;letter-spacing:-.012em;text-align:center;pointer-events:none;z-index:3}
+.expansion-word{display:inline-block;white-space:nowrap;margin-right:.22em}
+.expansion-word:last-child{margin-right:0}
+.expansion-initial{font-weight:600}
+.hero-acronym{display:inline-flex;align-items:baseline}
+.hero-char{display:inline-block}
+.hero-heading-rest{display:inline-block;white-space:pre}
+.hero-story .hero-slogan{font-size:17px;line-height:1.5;margin:14px 0 0;font-weight:400;letter-spacing:0}
+.hero-story.is-animating .hero-char,.hero-story.is-animating .hero-heading-rest,.hero-story.is-animating .hero-slogan{opacity:0}
+/* Home gallery: three relevant activities, no fabricated notices. */
+.home-section{padding-top:77px;padding-bottom:103px}
+.section-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;margin:0 0 23px}
+.section-heading h2{font-size:23px;line-height:1.5;font-weight:600;margin:0}
+.section-heading a{font-size:14px}
+.home-albums{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px}
+.feature-album{display:block}
+.feature-album img{height:207px;width:100%;object-fit:cover}
+.feature-album span{display:block;margin-top:12px;font-weight:500;font-size:15px}
+.feature-album:hover img{filter:brightness(.97)}
+/* Inner pages */
+.inner-page{padding-top:69px;padding-bottom:106px;min-height:70vh}
+.page-heading{margin:0 0 41px}
+.page-heading h1{font-size:32px;line-height:1.4;letter-spacing:-.025em;font-weight:600;margin:0}
+.year-section{padding-top:0;margin-bottom:60px}
+.year-heading{display:flex;align-items:center;gap:25px;margin:0 0 24px;font-size:22px;line-height:1.3;font-weight:500;letter-spacing:0}
+.year-heading::after{content:"";flex:1;border-top:1px solid #ccd5df}
+.book-row{display:flex;flex-wrap:wrap;gap:36px 29px;align-items:start}
+.book-item{width:185px;max-width:calc((100% - 60px)/3)}
+.book-cover{display:flex;justify-content:center;align-items:end;min-height:245px;max-width:100%}
+.book-cover img{max-width:100%;height:244px;width:auto;object-fit:contain;box-shadow:2px 4px 11px #26313d19;transition:transform .2s}
+.book-cover:hover img{transform:translateY(-4px)}
+.book-item h3{font-size:15px;line-height:1.5;font-weight:550;margin:13px 0 0;text-align:center}
+.subject-section{margin:0 0 73px}
+.subject-section h2{font-size:22px;font-weight:500;line-height:1.4;margin:0 0 25px}
+.subject-section .book-cover{min-height:235px}
+.subject-section .book-cover img{height:235px}
+/* Article archive remains searchable, but it is visually simple. */
+.index-section{margin-top:84px}
+.archive-toolbar{display:flex;align-items:center;justify-content:space-between;gap:18px;border-bottom:1px solid var(--line);padding-bottom:12px}
+.archive-tabs{display:flex;flex-wrap:wrap;gap:18px}
+.filter{background:none;border:0;border-bottom:1px solid transparent;padding:7px 0;font-size:14px;color:var(--ink)}
+.filter.active{color:var(--accent);border-color:var(--accent)}
+.filter:hover{color:var(--accent)}
+.archive-search{min-width:180px;border-bottom:1px solid #bec8d4}
+.archive-search input{background:transparent;outline:0;border:0;padding:8px 0;font-size:14px;width:100%}
+.archive-list{margin-top:8px}
+.archive-row{display:grid;grid-template-columns:60px 1fr 15px;gap:13px;align-items:center;border-bottom:1px solid var(--line);padding:17px 1px;line-height:1.5}
+.archive-date{font-size:14px;font-weight:400}
+.archive-category{display:none}
+.archive-title{font-size:15px;font-weight:500}
+.archive-author{display:none}
+.archive-arrow{font-size:16px}
+.archive-row:hover{color:var(--accent)}
+.empty-state{padding:30px 0}
+.study-article{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding:13px 0}
+.study-article:first-child{border-top:1px solid var(--line)}
+.study-article strong{font-weight:500;font-size:15px}
+.study-article span{font-weight:400}
+/* Album listing: only photographs and a name, three photos stacked with left-right fan. */
+.album-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:32px;row-gap:54px}
+.album-tile{display:flex;flex-direction:column;align-items:center;text-align:center}
+.photo-stack{display:block;width:100%;max-width:330px;height:205px;position:relative;margin-bottom:18px}
+.stack-photo{display:block;position:absolute;width:61%;height:148px;top:24px;left:50%;padding:4px 4px 17px;background:#fff;box-shadow:0 4px 9px #26313d24;transform-origin:50% 85%;transition:transform .28s ease;overflow:hidden}
+.stack-photo img{width:100%;height:100%;object-fit:cover}
+.stack-1{z-index:3;transform:translateX(-69%) rotate(-7deg)}
+.stack-2{z-index:2;transform:translateX(-49%) rotate(1deg)}
+.stack-3{z-index:1;transform:translateX(-29%) rotate(8deg)}
+.album-tile:hover .stack-1,.album-tile:focus-visible .stack-1{transform:translateX(-100%) rotate(-16deg)}
+.album-tile:hover .stack-2,.album-tile:focus-visible .stack-2{transform:translateX(-49%) rotate(0)}
+.album-tile:hover .stack-3,.album-tile:focus-visible .stack-3{transform:translateX(2%) rotate(17deg)}
+.album-title{display:block;font-size:15px;font-weight:500;line-height:1.5}
+.album-photos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.album-photos img{width:100%;height:auto;max-height:500px;object-fit:contain;background:#f1f4f7}
+.album-heading{margin-top:16px}
+.small-back{display:inline-block;font-size:14px;color:var(--accent);margin-bottom:20px}
+/* Article reading: one strong title and a single byline. */
+.article-shell{max-width:840px;padding:60px 0 100px}
+.article-shell h1{font-size:31px;line-height:1.5;font-weight:600;letter-spacing:-.018em;margin:14px 0 12px}
+.article-byline{font-size:14px;font-weight:400;border-bottom:1px solid var(--line);padding-bottom:23px}
+.article-content{font-size:16px;line-height:2.02;overflow-wrap:anywhere;padding-top:18px}
+.article-content h1,.article-content h2,.article-content h3{font-weight:600;line-height:1.5;letter-spacing:0}
+.article-content h1{font-size:24px}.article-content h2{font-size:21px}.article-content h3{font-size:18px}
+.article-content p{margin:18px 0}.article-content a{color:var(--accent);text-decoration:underline;text-underline-offset:3px}
+.article-content blockquote{border-left:2px solid #bbc7d4;padding-left:20px;margin:22px 0}
+.article-content pre{overflow:auto;background:#edf1f5;padding:17px;font-size:13px}
+.article-content img{max-height:760px;margin:0 auto;object-fit:contain}
+.article-content table{display:block;max-width:100%;overflow:auto;border-collapse:collapse}
+.article-content th,.article-content td{border:1px solid var(--line);padding:8px}
+.article-content hr{border:0;border-top:1px solid var(--line)}
+.article-content del{text-decoration:line-through}
+.article-bottom{border-top:1px solid var(--line);padding-top:21px;margin-top:65px;display:flex;justify-content:space-between;gap:25px;font-size:14px}
+/* Footer: no development prose. */
+.site-footer{border-top:1px solid #e0e6ec;padding:22px 0 26px}
+.footer-inner{display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.footer-inner a{color:var(--accent)}
+@media(max-width:1020px){
+ .wrap{width:calc(100% - 70px)}.album-grid{gap:24px}.ornament-atom{left:9%}.ornament-computer{right:9%}
+ .ornament-mouse{right:6%}.ornament-microscope{left:5%}
+}
+@media(max-width:700px){
+ .wrap{width:calc(100% - 38px)}
+ .header-inner{width:calc(100% - 30px);gap:0;height:auto;min-height:93px;flex-wrap:wrap;align-content:center}.site-brand{width:100%;min-height:39px;gap:10px}.brand-wordmark{width:218px;max-width:calc(100vw - 84px)}
+ .main-nav{gap:21px;width:100%;max-width:100%;justify-content:space-between;overflow-x:auto;scrollbar-width:none}.main-nav a{font-size:12px;padding:20px 0 16px}
+ .hero{padding:10px 10px 0}.hero-panel{height:310px}
+ .hero-center{width:calc(100% - 30px)}.hero h1{font-size:clamp(39px,10vw,58px)}.hero-story .hero-slogan{font-size:13px;margin-top:10px}.hero-story .hero-expansion{font-size:clamp(15px,4.3vw,18px);line-height:1.5;width:calc(100vw - 38px)}
+ .ornament-atom{width:82px;left:3%;top:4%;opacity:.48}.ornament-computer{width:75px;right:3%;top:4%;opacity:.48}
+ .ornament-microscope{width:60px;left:4%;bottom:2%;opacity:.45}
+ .ornament-mouse{width:85px;right:3%;bottom:2%;opacity:.43}
+ .ornament-molecule,.ornament-saturn{display:none}
+ .home-section{padding-top:56px;padding-bottom:65px}
+ .section-heading h2{font-size:21px}.section-heading a{font-size:13px}
+ .home-albums{grid-template-columns:repeat(2,minmax(0,1fr));gap:25px 15px}
+ .feature-album img{height:135px}.feature-album span{font-size:13px;margin-top:7px}
+ .inner-page{padding-top:43px;padding-bottom:80px}.page-heading{margin-bottom:35px}.page-heading h1{font-size:26px}
+ .year-section{margin-bottom:44px}.year-heading{font-size:20px;margin-bottom:20px}
+ .book-row{gap:27px 19px}.book-item{width:calc((100% - 19px)/2);max-width:none}
+ .book-cover,.subject-section .book-cover{min-height:210px}
+ .book-cover img,.subject-section .book-cover img{height:205px;max-width:100%}
+ .book-item h3{font-size:13px}
+ .subject-section h2{font-size:20px}
+ .index-section{margin-top:64px}.archive-toolbar{display:block}
+ .archive-tabs{gap:16px}.archive-search{margin-top:10px;display:block}
+ .archive-search input{width:100%}.archive-row{grid-template-columns:40px 1fr 14px;gap:8px}.archive-title{font-size:14px}
+ .album-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 9px}
+ .photo-stack{height:145px;margin-bottom:8px}.stack-photo{width:70%;height:111px;top:13px;padding:3px 3px 12px}
+ .album-title{font-size:13px}.album-photos{grid-template-columns:1fr;gap:15px}
+ .article-shell{padding-top:43px}.article-shell h1{font-size:25px}.article-content{font-size:14px}
+}
+@media(max-width:370px){.main-nav{gap:15px}.main-nav a{font-size:11px}.hero h1{font-size:37px}.feature-album img{height:110px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
+
+/* Layered scientific sketchbook scene. The SVGs are independent assets,
+   arranged around the central typographic reveal, not a poster image. */
+.hero-panel{background:#f8f7fc; height:420px; border-color:#e9e4f0}
+.hero-decor{z-index:0; isolation:isolate}
+.hero-sketch{position:absolute;display:block;object-fit:contain;pointer-events:none;user-select:none}
+.hero-sketch-trails{inset:0;width:100%;height:100%;object-fit:fill;opacity:.66;z-index:0}
+.hero-sketch-axes{left:-2.5%;bottom:-4%;width:37%;height:98%;opacity:.7;z-index:1}
+.hero-sketch-laptop{left:8%;bottom:-7%;width:34%;height:78%;opacity:.96;z-index:3}
+.hero-sketch-atom-burst{left:17%;top:27%;width:21%;height:59%;opacity:.94;z-index:4}
+.hero-sketch-flask{left:18.8%;top:0%;width:13%;height:47%;opacity:.8;transform:rotate(-7deg);z-index:2}
+.hero-sketch-planet{right:2%;top:-3%;width:24%;height:73%;opacity:.86;z-index:2}
+.hero-sketch-mouse{right:12%;bottom:0%;width:17%;height:38%;opacity:.95;z-index:3}
+.hero-story{z-index:8}
+@media(max-width:1020px){
+ .hero-sketch-axes{left:-4%;width:39%;opacity:.61}
+ .hero-sketch-laptop{left:5%;width:35%}
+ .hero-sketch-atom-burst{left:14%;width:22%}
+ .hero-sketch-flask{left:17%;width:14%}
+ .hero-sketch-planet{right:-1%;width:27%}
+ .hero-sketch-mouse{right:8%;width:20%}
+}
+@media(max-width:700px){
+ .hero-panel{height:310px}
+ .hero-sketch-trails{opacity:.35}
+ .hero-sketch-axes{left:-25%;bottom:-3%;width:66%;height:99%;opacity:.32}
+ .hero-sketch-laptop{left:-7%;bottom:-6%;width:48%;height:auto;opacity:.83}
+ .hero-sketch-atom-burst{left:10%;top:auto;bottom:12%;width:28%;height:auto;opacity:.8}
+ .hero-sketch-flask{left:17%;top:1%;width:20%;height:auto;opacity:.62}
+ .hero-sketch-planet{right:-5%;top:-1%;width:43%;height:auto;opacity:.73}
+ .hero-sketch-mouse{right:3%;bottom:1%;width:31%;height:auto;opacity:.84}
+}
+/* Keep the full historical name legible during its brief introductory reveal,
+   including where a notebook sketch crosses the edge of its text area. */
+.hero-story .hero-expansion{
+  width:min(610px,calc(100vw - 110px));
+  font-size:clamp(18px,1.55vw,22px);
+  line-height:1.55;
+  text-shadow:0 0 9px #f8f7fc,0 0 18px #f8f7fc;
+}
+@media(max-width:700px){
+  .hero-story .hero-expansion{width:calc(100vw - 45px);font-size:clamp(14px,3.7vw,17px);line-height:1.5}
+}
+
+/* Preserve the semantic red/blue highlights of the original GRE writing notes. */
+.article-content .legacy-note-danger{color:#a83d53}
+.article-content .legacy-note-info{color:#3576a9}
+
+/* Official Kuang Yaming Honors School calligraphic lettering in NJU purple;
+   keep the independent atom icon, rather than using the whole official logo. */
+@media (min-width:701px) and (max-width:1020px){
+  .header-inner{gap:18px;width:calc(100% - 50px)}
+  .brand-wordmark{width:clamp(172px,23vw,218px)}
+  .main-nav{gap:clamp(15px,2vw,28px)}
+}
+
+/* Intranet clone with source code but missing the server-side content library.
+   A shared, generous empty state for handbooks, textbooks and photo albums.
+   The home page deliberately keeps its existing treatment unchanged. */
+.resource-missing-page{min-height:76vh}
+.resource-missing{
+  max-width:970px;margin:4px auto 0;padding:25px 34px 72px;
+  min-height:575px;display:flex;flex-direction:column;align-items:center;
+  text-align:center;justify-content:center;
+}
+.resource-missing-art{width:min(440px,100%);height:auto;aspect-ratio:13/9;object-fit:contain;margin:0 auto 9px}
+.resource-missing h2{
+  font-size:clamp(23px,2.65vw,34px);line-height:1.4;letter-spacing:-.025em;
+  font-weight:600;margin:5px 0 0;color:var(--ink)
+}
+.resource-missing-subtitle{font-size:clamp(17px,2vw,23px);margin:10px 0 0;line-height:1.5;letter-spacing:.012em}
+.resource-missing-rule{width:64px;border-top:2px solid #ad9bc4;margin:32px 0 25px}
+.resource-missing-hint{margin:0;color:#79818c;font-size:14px;line-height:2.15}
+.resource-missing-hint code{
+  display:inline-block;max-width:100%;overflow-wrap:anywhere;
+  padding:0 .46em;border-radius:5px;background:#f0ebf5;
+  color:#685181;font:500 .98em/1.8 ui-monospace,SFMono-Regular,Menlo,monospace
+}
+@media(max-width:700px){
+  .resource-missing{min-height:480px;padding:14px 4px 48px;margin-top:0}
+  .resource-missing-art{width:min(360px,100%);margin-bottom:10px}
+  .resource-missing h2{font-size:clamp(21px,6vw,27px)}
+  .resource-missing-subtitle{font-size:17px}
+  .resource-missing-rule{margin:27px 0 22px}
+  .resource-missing-hint{font-size:12px;line-height:2}
+}
+
+/* Homepage-only announcement: below navigation, never sticky or floating. */
+.site-announcement{
+  background:#f2eef8;
+  color:#554363;
+  border-bottom:1px solid #e7e1ee;
+  font-size:13px;
+  line-height:1.5;
+}
+.site-announcement-inner{
+  max-width:1140px;
+  min-height:38px;
+  width:calc(100% - 96px);
+  margin:0 auto;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:center;
+  gap:5px 12px;
+  padding:8px 0;
+  text-align:center;
+}
+.site-announcement-icon{font-size:15px;color:#846b9c;line-height:1;flex-shrink:0}
+.site-announcement-text{min-width:0;overflow-wrap:anywhere}
+.site-announcement-link{color:#624781;font-weight:600;white-space:nowrap;text-decoration:underline;text-underline-offset:3px}
+.site-announcement-link:hover{color:#402958}
+/* The established year rule and fanned photo cards are reused in album groups. */
+.album-years .album-year{margin-bottom:56px}
+.album-years .album-year:last-child{margin-bottom:0}
+.album-years .album-year .year-heading{margin-bottom:32px}
+@media(max-width:700px){
+  .site-announcement-inner{width:calc(100% - 38px);gap:4px 8px;min-height:38px;padding:9px 0;font-size:12px}
+  .album-years .album-year{margin-bottom:43px}
+  .album-years .album-year .year-heading{margin-bottom:20px}
+}

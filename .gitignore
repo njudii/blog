@@ -1,5 +1,19 @@
-.gitmodules
-/public
-/static
+# Build output is produced on the intranet server; never commit it.
+/dist/
+/.site-build-staging/
+/.site-build-backup/
+/.local-site/
 
-package-lock.json
+# Intranet-only library and event photos: Git keeps just the .gitkeep placeholders.
+/content/handbooks/*
+!/content/handbooks/.gitkeep
+/content/textbooks/*
+!/content/textbooks/.gitkeep
+/content/album/*
+!/content/album/.gitkeep
+
+# Local development files
+__pycache__/
+*.py[cod]
+.venv/
+/保研攻略&飞跃手册.rar

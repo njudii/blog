@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="dino-title dino-desc">
+  <title id="dino-title">拿相机的小恐龙</title>
+  <desc id="dino-desc">一只戴圆框眼镜、抱着复古相机的小恐龙，旁边散落着拍立得照片、云朵和相框</desc>
+  <defs>
+    <pattern id="paper" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".45" fill="#b1a9b9" opacity=".25"/></pattern>
+  </defs>
+  <g fill="none" stroke="#51445f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="256" cy="318" rx="166" ry="12" fill="#e5dfef" stroke="none" opacity=".5"/>
+    <!-- scattered instant photos on the floor -->
+    <path d="M61 236 143 225 150 309 67 317z" fill="#ffffff"/>
+    <path d="m72 246 62-8 5 46-64 8z" fill="#dbe5f0" stroke-width="1.6"/>
+    <path d="m77 283 20-25 15 12 10-18 14 29z" fill="#b1c0bc" stroke-width="1.3"/>
+    <circle cx="126" cy="249" r="5" fill="#f5ecd2" stroke="none"/>
+    <path d="m104 244 55 7-10 66-54-9z" fill="#fbfaff"/>
+    <path d="m112 254 39 5-6 39-38-5z" fill="#ded6eb" stroke-width="1.5"/>
+    <path d="m110 292 15-17 12 13 13-13" fill="#c0b0d4" stroke-width="1.5"/>
+    <!-- tail -->
+    <path d="M344 246c30 20 69 20 92-4-1 31-20 51-49 54-26 3-51-9-65-23" fill="#dfd5ed"/>
+    <!-- tail triangles -->
+    <path d="m370 249 7-14 13 17m5 0 10-13 10 12m-70-8 4-13 14 13" fill="#c0b0d4"/>
+    <!-- feet and body -->
+    <path d="M216 186c-37 12-54 44-47 78 9 44 41 64 91 64 49 0 92-15 99-62 6-42-19-78-48-87" fill="#eee9f5"/>
+    <path d="M221 265c-15 20-22 45-12 56 9 11 26 9 33-3m78-56c17 19 24 41 15 53-9 12-29 10-39-1" fill="#e0d5ed"/>
+    <path d="M212 318c0-8 9-14 17-10m90 7c-3-9-15-10-20-5" stroke-width="1.6"/>
+    <!-- neck + head -->
+    <path d="M189 177c-7-14-12-33-9-51 5-46 44-80 98-79 57 0 95 39 91 93-2 35-26 65-64 77-49 14-93-1-116-40Z" fill="#efe9f7"/>
+    <path d="M237 57 246 32l17 18 17-23 16 22 20-18 12 29" fill="#cdbfe0"/>
+    <path d="M204 97c10-17 19-23 28-27m92 4c17 8 23 17 28 27" stroke-width="1.5" opacity=".4"/>
+    <!-- spectacles -->
+    <circle cx="239" cy="132" r="34" fill="#fff" fill-opacity=".85" stroke-width="3.5"/>
+    <circle cx="316" cy="132" r="34" fill="#fff" fill-opacity=".85" stroke-width="3.5"/>
+    <path d="M273 126c8-7 15-7 24 0M206 124l-21-8" stroke-width="3.5"/>
+    <ellipse cx="248" cy="141" rx="8" ry="12" fill="#40384b" stroke="none"/>
+    <ellipse cx="309" cy="141" rx="8" ry="12" fill="#40384b" stroke="none"/>
+    <circle cx="251" cy="136" r="2" fill="#fff" stroke="none"/><circle cx="311" cy="136" r="2" fill="#fff" stroke="none"/>
+    <path d="M277 169q8 8 17-1m-18 17c6 6 11 5 15 0" stroke-width="1.8"/>
+    <circle cx="220" cy="171" r="6" fill="#deb9d3" stroke="none" opacity=".55"/><circle cx="333" cy="170" r="6" fill="#deb9d3" stroke="none" opacity=".55"/>
+    <!-- camera held by dinosaur arms -->
+    <path d="M237 228v-14q0-5 5-5h40q6 0 6 6v13" fill="#ddd0ea"/>
+    <rect x="208" y="227" width="148" height="79" rx="13" fill="#d7c6e5"/>
+    <rect x="219" y="237" width="126" height="56" rx="9" fill="#f1ecf7" stroke-width="1.7"/>
+    <circle cx="284" cy="264" r="32" fill="#e8e0f1" stroke-width="3"/>
+    <circle cx="284" cy="264" r="23" fill="#82749a" stroke-width="2.5"/>
+    <circle cx="284" cy="264" r="14" fill="#e7deef" stroke-width="1.5"/>
+    <circle cx="279" cy="257" r="6" fill="#faf6fd" stroke="none"/>
+    <rect x="218" y="216" width="28" height="9" rx="3" fill="#bca9ce"/>
+    <rect x="313" y="239" width="18" height="11" rx="4" fill="#d4b2d1" stroke-width="1.6"/>
+    <path d="M207 261c-12-1-16-7-15-15 1-7 9-12 15-8m149 23c13-1 18-8 16-16-2-9-9-12-16-7" fill="#eee3f5"/>
+    <path d="M202 272q-6 9 0 17m157-15q6 9 0 15" stroke-width="1.6"/>
+    <!-- single framed photograph on the right -->
+    <path d="m391 269 62-15 14 53-64 17z" fill="#ffffff"/>
+    <path d="m401 276 44-10 10 32-44 11z" fill="#dce5f1" stroke-width="1.6"/>
+    <path d="m414 299 12-18 16 11m-7-8 9 7" fill="#a9bfbd" stroke-width="1.6"/>
+    <circle cx="437" cy="277" r="4" fill="#f1dab7" stroke="none"/>
+    <!-- viewfinder doodle in the air -->
+    <rect x="70" y="79" width="66" height="52" rx="9" stroke="#a48db7" stroke-width="2"/>
+    <circle cx="103" cy="106" r="18" stroke="#a48db7" stroke-width="1.7"/>
+    <circle cx="103" cy="106" r="7" fill="#947baa" stroke="none"/>
+    <path d="M83 78V69h20l6 10" stroke="#a48db7" stroke-width="1.7"/>
+    <!-- doodles -->
+    <path d="m407 88 12-16 13 14m-17 2 4-16m-15 7 14 3m14 26q13-11 24 3m-8 4 4-5 7 1" stroke="#ad96c6" stroke-width="2"/>
+    <path d="m168 45-7-12m23 18 8-12m-13-8 1-14" stroke="#ad96c6" stroke-width="2.5"/>
+    <path d="m66 200 17-16 20 13m-36 17h39m-19-49v48" stroke="#ad96c6" stroke-width="1.7"/>
+    <path d="m444 180 9-10 6 11m-7-11v22m-15-9h30" stroke="#ad96c6" stroke-width="2"/>
+    <circle cx="439" cy="209" r="2" fill="#a593b8" stroke="none"/><circle cx="89" cy="54" r="2" fill="#a593b8" stroke="none"/>
+  </g>
+  <rect x="0" y="0" width="520" height="360" fill="url(#paper)" pointer-events="none"/>
+</svg>
